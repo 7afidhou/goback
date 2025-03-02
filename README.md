@@ -1,3 +1,12 @@
+# GoBack Script
+
+This script allows you to easily navigate up the directory tree in your terminal.
+
+## Installation and Usage
+
+Run the following commands to set up and use the script:
+
+```bash
 # 1. Clone the Repository
 git clone https://github.com/yourusername/goback.git
 
